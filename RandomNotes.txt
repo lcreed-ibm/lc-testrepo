@@ -1,0 +1,17 @@
+[root@ddydallctst01 logs]# cat AboutThisProfile.txt 
+Application server environment to create: Management
+Location: /opt/IBM/WebSphere/AppServer/profiles/CellManager01
+Disk space required: 30 MB
+Profile name: CellManager01
+Make this profile the default: True
+Node name: CellManager01
+Cell name: ws-cell
+Host name: ddydallctst01.w3-969.ibm.com
+Enable administrative security (recommended): True
+Administrative console port: 10000
+Administrative console secure port: 10001
+Management bootstrap port: 10002
+Management SOAP connector port: 10003
+Run Management as a service: False
+
+
